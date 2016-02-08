@@ -1,6 +1,6 @@
 var db = require("seraph")({
-  server: "",
-  user: "",
+  server: "http://cricuttest.sb02.stations.graphenedb.com:24789",
+  user: "cricuttest",
   pass: "96ov8vbfcVPuQD7F3fC9"
 });
 
